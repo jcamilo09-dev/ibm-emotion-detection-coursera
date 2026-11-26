@@ -50,4 +50,4 @@ python -m pylint server.py
 ```
 
 The unit tests are live integration tests and require Watson connectivity.
-See `Entrega_Final/GUIA_ENTREGA.md` for the current status and evidence gaps.
+The Coursera submission evidence is maintained locally and is not part of this public source repository.
